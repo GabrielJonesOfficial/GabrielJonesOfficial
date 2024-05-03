@@ -24,20 +24,35 @@ Ciao a tutti, come state? io sempre bene, io sono Gabriel, conosciuto come onlyg
 ### repository
 #### Jjonesblu
 https://github.com/jjonesblu/sito1
+
 https://github.com/jjonesblu/immage
+
 https://github.com/jjonesblu/sito
+
 https://github.com/jjonesblu/3347
+
 https://github.com/jjonesblu/Onlygabbyme
+
 https://github.com/jjonesblu/onlysiteme
+
 https://github.com/jjonesblu/T-app
+
 https://github.com/jjonesblu/blog-nextjs-sanity
+
 https://github.com/jjonesblu/GabbyApp
+
 https://github.com/jjonesblu/diz-tv
+
 https://github.com/jjonesblu/TGC-APP
+
 https://github.com/jjonesblu/MEgabby.github.io
+
 https://github.com/jjonesblu/GabbyWebApp
+
 https://github.com/jjonesblu/home.github.io
+
 https://github.com/jjonesblu/GabbyApp.github.io
+
 https://github.com/jjonesblu/letteratura
 
 #### Pagina Globale
@@ -45,16 +60,29 @@ https://github.com/Pagina-globale/Pagina-globale.github.io
 
 #### Gabriel Jones Dev
 https://github.com/GabrielJonesDev/GabrielJonesDev.github.io
+
 https://github.com/GabrielJonesDev/docs
+
 https://github.com/GabrielJonesDev/stackblitz-starters-qtphxd
+
 https://github.com/GabrielJonesDev/USR
+
 https://github.com/GabrielJonesDev/usr-manager
+
 https://github.com/GabrielJonesDev/GJDEV.IT
+
 https://github.com/GabrielJonesDev/blog
+
 https://github.com/GabrielJonesDev/developers.gjdev.it
+
 https://github.com/GabrielJonesDev/-gjdev.it
+
 https://github.com/GabrielJonesDev/chillpage
+
 https://github.com/GabrielJonesDev/bootstraptheme
+
 https://github.com/GabrielJonesDev/GabrielJones
+
 https://github.com/GabrielJonesDev/.github
+
 https://github.com/GabrielJonesDev/GabrielJonesDev
