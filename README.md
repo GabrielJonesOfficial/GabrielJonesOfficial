@@ -3,20 +3,22 @@
 Ciao a tutti, come state? io sempre bene, io sono Gabriel, conosciuto come onlygabbyme io sono nato l’11 giugno del 2008, sono un nerd assurdo e amo scrivere!
 # Account github : 
 
-https://github.com/jjonesblu
+1. https://github.com/jjonesblu
 
-https://github.com/pagina-globale
+2. https://github.com/pagina-globale
 
-https://github.com/gabrieljonesdev
+3. https://github.com/gabrieljonesdev
 
-https://github.com/gabrieljonesofficial
+4. https://github.com/gabrieljonesofficial
 
-https://github.com/gabrieljonesblog
+5. https://github.com/gabrieljonesblog
 
-https://github.com/JonesDeveloper08
+6. https://github.com/JonesDeveloper08
 
-https://github.com/nahdeveloper
+7. https://github.com/nahdeveloper
 
-https://github.com/gjdev-it
+8. https://github.com/gjdev-it
 
-https://github.com/DevTechLab
+9. https://github.com/DevTechLab
+
+# repository
